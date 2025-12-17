@@ -32,7 +32,7 @@ const TitleBar = () => {
                     className="title-logo"
                   />
                   <span className="title-text">
-                    Pressure Monitoring System - PT. Socfindo POM Tanah Gambus
+                    Pressure Monitoring System - PT. Socfindo POM Lae Butar
                   </span>
                 </div>
                 <span className="clock">
